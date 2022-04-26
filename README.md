@@ -1,4 +1,4 @@
-# hello-world
+# Define a loltime
 To find a time you played the league of legends ( in python).
 
 This is version of 2019 - loldata.
